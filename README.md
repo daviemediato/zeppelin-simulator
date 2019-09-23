@@ -1,5 +1,5 @@
-# Airplane Simulator in 3D
-This project aims to create an Airplane Simulator - a game that simulate an airplane flying over a city in 3D.
+# Zeppelin Simulator in 3D done with OpenGL
+This project aims to create an Zeppelin Simulator - a game that simulate an airplane flying over a city in 3D.
 
 First, make sure you have installed:
 ```
